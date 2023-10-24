@@ -80,7 +80,8 @@
 
 10. **Merge**: Once your PR is approved, it will be merged into the project. Congratulations!
 
-Please make sure to follow the project's code of conduct and contribution guidelines. By contributing, you agree to abide by them.
+
+    => Please make sure to follow the project's code of conduct and contribution guidelines. By contributing, you agree to abide by them.
 
 If you have questions or need help with the process, feel free to open an issue..
 
