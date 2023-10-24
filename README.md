@@ -46,3 +46,42 @@
 ## Contributing
 
 * We welcome and appreciate contributions to this project. To contribute, please follow these steps:
+
+1. **Fork the Repository**: Click the "Fork" button at the top of the repository on GitHub. This will create a copy of the repository in your GitHub account.
+
+2. **Clone the Repository**: Clone your forked repository to your local machine using `git clone`.
+
+    ```shell
+   git clone https://github.com/your-username/repository.git
+
+3. **Create a New Branch**: Create a new branch for your contribution. Choose a meaningful branch name that describes your work `git checkout -b`.
+
+    ```shell
+    git checkout -b feature/your-feature-name
+
+4. **Make Changes**: Make the necessary code changes and additions in your branch.
+
+5. **Test Your Changes**: Ensure your changes are working as expected. Write tests if applicable.
+
+6. **Commit Your Changes**: Commit your changes with clear and concise commit messages.
+
+    ```shell
+    git commit -m "(feat/fix/chore...) Your commit message here"
+
+7. **Push Your Changes**: Push your changes to your fork on GitHub.
+
+    ```shell
+    git push origin feature/your-feature-name
+
+
+8. **Create a Pull Request (PR)**: Go to the original repository on GitHub and click "New Pull Request." Describe your changes and submit the PR.
+
+9. **Review and Discuss**: After submitting the PR, your changes will be reviewed by project maintainers. Be prepared to address any feedback and make necessary adjustments.
+
+10. **Merge**: Once your PR is approved, it will be merged into the project. Congratulations!
+
+Please make sure to follow the project's code of conduct and contribution guidelines. By contributing, you agree to abide by them.
+
+If you have questions or need help with the process, feel free to open an issue..
+
+Thank you for contributing to our project!
