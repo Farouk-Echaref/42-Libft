@@ -37,9 +37,9 @@
 
 2. Makefile commands:
 
-make or make all: Compiles the library.
-make clean: Removes object files.
-make fclean: Removes object files and the library.
-make re: Rebuilds the library.
-make bonus: Compiles bonus functions if applicable.
+- make or make all: Compiles the library.
+- make clean: Removes object files.
+- make fclean: Removes object files and the library.
+- make re: Rebuilds the library.
+- make bonus: Compiles bonus functions if applicable.
 
