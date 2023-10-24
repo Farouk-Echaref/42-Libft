@@ -7,7 +7,7 @@
 ## Table of Contents
 
 - [Getting Started](#getting-started)
-- [How to Use](#how-to-use)
+- [How To Use](#how-to-use)
 - [Development and Testing](#development-and-testing)
 - [Contributing](#contributing)
 - [License](#license)
@@ -43,3 +43,6 @@
 - make re: Rebuilds the library.
 - make bonus: Compiles bonus functions if applicable.
 
+## Contributing
+
+* We welcome and appreciate contributions to this project. To contribute, please follow these steps:
